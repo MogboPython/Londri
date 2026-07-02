@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/MogboPython/londri-backend.git
+[submodule "londri_frontend"]
+	path = londri_frontend
+	url = https://github.com/seyiolufemi/londri.git
