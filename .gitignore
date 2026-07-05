@@ -2,3 +2,4 @@ dump.txt
 .idea/
 .venv/
 main.py
+__pycache__/
