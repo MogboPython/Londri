@@ -10,7 +10,14 @@ Londri is a management platform that gives independent laundry businesses a digi
 - **Backend / API docs:** https://londri-backend.fastapicloud.dev/docs
 
 
----
+You can log into a business (owner) account on the frontend  view the full features using:
+
+```
+email: test@gmail.com
+password: password1234
+```
+
+You can opt in  receive WhatsApp updates from our app by sending `join car-angry` to  `+14155238886`
 
 ## Repositories
 
